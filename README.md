@@ -55,5 +55,6 @@ Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cl
 
 ## What I Study
 
-1. <main></main> is label of html
-2. 
+1. </main> is label of html
+2. import react so we could assit jsx
+3. 
