@@ -58,3 +58,4 @@ Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cl
 1. </main> is label of html
 2. import react so we could assit jsx
 3. use {children} to destructuring from props
+4. one js file only could use once useStaticQuery 
