@@ -59,3 +59,4 @@ Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cl
 2. import react so we could assit jsx
 3. use {children} to destructuring from props
 4. one js file only could use once useStaticQuery 
+5. when use queryData,page component different from build-in component,why?
