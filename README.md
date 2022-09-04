@@ -60,3 +60,4 @@ Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cl
 3. use {children} to destructuring from props
 4. one js file only could use once useStaticQuery 
 5. when use queryData,page component different from build-in component,why?
+6. mdx children means content
